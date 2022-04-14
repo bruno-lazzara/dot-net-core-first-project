@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{64C0258E-C770-4EE6-8DCD-E4E79C48EA1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Views/Shared/_ValidationScriptsPartial.cshtml">
+    <Files>
+      <File FileName="BulkyBookWeb/Controllers/CategoryController.cs" Line="40" Column="43" />
+      <File FileName="BulkyBookWeb/Models/Category.cs" Line="11" Column="37" />
+      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="10" Column="111" />
+      <File FileName="BulkyBookWeb/Program.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Views/Category/Create.cshtml" Line="12" Column="43" />
+      <File FileName="BulkyBookWeb/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_ValidationScriptsPartial.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
