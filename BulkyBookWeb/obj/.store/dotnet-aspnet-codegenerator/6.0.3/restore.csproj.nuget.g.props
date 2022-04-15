@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/obj/.store/.stage/mecd5pxf.d0e</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/obj/.store/.stage/mecd5pxf.d0e</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.1.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/obj/.store/.stage/mecd5pxf.d0e/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/obj/.store/.stage/mecd5pxf.d0e/dotnet-aspnet-codegenerator/6.0.3</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>
