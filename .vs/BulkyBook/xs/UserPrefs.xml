@@ -1,18 +1,22 @@
 ﻿<Properties StartupConfiguration="{64C0258E-C770-4EE6-8DCD-E4E79C48EA1F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Views/Category/Details.cshtml">
     <Files>
-      <File FileName="BulkyBookWeb/Controllers/CategoryController.cs" Line="120" Column="48" />
-      <File FileName="BulkyBookWeb/Views/Category/Index.cshtml" Line="6" Column="1" />
+      <File FileName="BulkyBookWeb/Controllers/CategoryController.cs" Line="119" Column="27" />
+      <File FileName="BulkyBookWeb/Views/Category/Index.cshtml" Line="46" Column="33" />
+      <File FileName="BulkyBookWeb/Views/Category/Details.cshtml" Line="44" Column="56" />
+      <File FileName="BulkyBookWeb/Views/Category/Edit.cshtml" Line="9" Column="56" />
+      <File FileName="BulkyBookWeb/Views/Category/Create.cshtml" Line="8" Column="27" />
       <File FileName="BulkyBookWeb/Views/Category/Delete.cshtml" Line="21" Column="52" />
-      <File FileName="BulkyBookWeb/Views/Shared/_Notification.cshtml" Line="15" Column="46" />
-      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="66" Column="8" />
+      <File FileName="BulkyBookWeb/Models/Category.cs" Line="18" Column="1" />
+      <File FileName="BulkyBookWeb/Program.cs" Line="30" Column="24" />
+      <File FileName="BulkyBookWeb/wwwroot/css/bootswatchTheme.css" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,19 +29,11 @@
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="CategoriesTemp" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+                <Node name="Category" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="lib" expanded="True">
-                  <Node name="jquery" expanded="True">
-                    <Node name="dist" expanded="True">
-                      <Node name="jquery.js" expanded="True" />
-                    </Node>
-                  </Node>
-                </Node>
               </Node>
             </Node>
           </Node>

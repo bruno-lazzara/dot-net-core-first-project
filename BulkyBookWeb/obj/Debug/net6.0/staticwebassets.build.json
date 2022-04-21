@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YGudJ+2VTR5x8AlbaJZrEK80NheIRSCohudsfrWVIJI=",
+  "Hash": "zWC840eJdrRVGKNy9d1uTPqqwRB0FoC5kUfZOrufiVQ=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/projectbundle/BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/wwwroot/.DS_Store",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/wwwroot/css/bootswatchTheme.css",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/wwwroot/lib/.DS_Store",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "lib/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/.DS_Store"
     },
     {
       "Identity": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
