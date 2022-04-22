@@ -3,44 +3,44 @@
     ViewData["Title"] = $"Category {Model.Id} - {Model.Name}";
 }
 
-<div class="border p-3 mt-4">
+<div class="p-3 mt-4">
     <div class="row pb-2">
         <h2 class="text-primary">Category @Model.Id - @Model.Name</h2>
         <hr />
     </div>
     <ul class="nav nav-pills">
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link active" data-bs-toggle="tab" href="#id">Id</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#displayOrder">Display Order</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#createdDateTime">Created Date Time</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item m-2">
             <a class="nav-link" data-bs-toggle="tab" href="#name">Name</a>
         </li>
     </ul>
-    <div id="myTabContent" class="tab-content p-2 mt-3 mb-4 border-top">
+    <div id="myTabContent" class="tab-content p-2 mt-1 mb-4 border">
         <div class="tab-pane fade active show" id="id">
             <p>Category ID: @Model.Id</p>
         </div>
