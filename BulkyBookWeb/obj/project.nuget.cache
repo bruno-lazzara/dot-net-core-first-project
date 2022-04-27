@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Inosq9i8iRgHGyprDkHyWYJiJcmJcKn4IDBB5KNvPO67Ij5fJRWCBgef1pWUnbqqy2wWUZRHpn7te18SkEwljA==",
+  "dgSpecHash": "QPOUDfiUDpJkDdt40fkLIOx0nPSkw7307GHKHfXnUUwSNjyK9uZ5qDE6CVKb9ve3AppL4DfMvc13weiDsRFRXA==",
   "success": true,
   "projectFilePath": "/Users/brunolazzara/Library/CloudStorage/OneDrive-Pessoal/Meus Projetos/BulkyBook/BulkyBookWeb/BulkyBookWeb.csproj",
   "expectedPackageFiles": [
@@ -113,10 +113,10 @@
     "/Users/brunolazzara/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
     "/Users/brunolazzara/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
     "/Users/brunolazzara/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
-    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore/6.3.0/swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
-    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.3.0/swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
-    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.3.0/swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
-    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.3.0/swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512",
+    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore/6.3.1/swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore.swagger/6.3.1/swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.3.1/swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "/Users/brunolazzara/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.3.1/swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
     "/Users/brunolazzara/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/Users/brunolazzara/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/brunolazzara/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
