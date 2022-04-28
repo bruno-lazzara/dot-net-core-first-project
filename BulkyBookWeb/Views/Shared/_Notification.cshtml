@@ -1,20 +1,25 @@
 ﻿@if (TempData["success"] != null)
 {
-    <div class="toast bg-success text-white position-absolute p-1 m-3 top-1 end-0" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5100" id="myToast">
-        <div class="toast-header bg-success text-white">
-            <strong class="me-auto"></strong>
-            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
-        </div>
+    <div class="toast bg-success text-white position-absolute p-0 m-3 top-1 end-0" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5100" id="myToast">
         <div class="toast-body">
-            <h6 class="text-white">@TempData["success"]</h6>
+            <div class="row">
+                <div class="col-10">
+                    <p class="text-white">@TempData["success"]</p>
+                </div>
+                <div class="col-2">
+                    <button type="button" class="btn-close btn-close-white end-0" data-bs-dismiss="toast" aria-label="Close"></button>
+                </div>
+            </div>
         </div>
-        <div class="progress bg-success mb-1 mx-1" style="height: 5px">
+        <div class="progress bg-success m-0 rounded-0" style="height: 5px">
             <div class="progress-bar bg-light" role="progressbar" style="width: 100%; height: 5px" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" id="progressBar"></div>
         </div>
     </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript">$(document).ready(function () {
+    <script type="text/javascript">
+
+        $(document).ready(function () {
             $('#myToast').toast({ delay: 5100 });
             $('#myToast').toast('show');
         });
@@ -45,12 +50,13 @@
         $('#myToast').on('mouseleave', function () {
             isPaused = false;
         });
+
     </script>
 }
 
 @if (TempData["error"] != null)
 {
-    <div class="toast bg-danger text-white position-absolute p-1 m-3 top-1 end-0" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5100" id="myToast">
+    <div class="toast bg-success text-white position-absolute p-0 m-3 top-1 end-0" role="alert" aria-live="assertive" aria-atomic="true" data-bs-delay="5100" id="myToast">
         <div class="toast-header bg-danger text-white">
             <strong class="me-auto"></strong>
             <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
@@ -64,7 +70,9 @@
     </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript">$(document).ready(function () {
+    <script type="text/javascript">
+
+        $(document).ready(function () {
             $('#myToast').toast({ delay: 5100 });
             $('#myToast').toast('show');
         });
@@ -95,5 +103,6 @@
         $('#myToast').on('mouseleave', function () {
             isPaused = false;
         });
+
     </script>
 }
